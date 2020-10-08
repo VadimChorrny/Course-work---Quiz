@@ -65,8 +65,15 @@ void PlannerMenu() {
 
 	do
 	{
-		cout << "Add new victorines" << endl;
-		cout << "Print all victorines" << endl;
+
+
+		cout << "Add new question on Interview" << endl;
+		cout << "Print all Interview" << endl;
+		cout << "Interview on HTML/CSS/Preprocessing" << endl;
+		cout << "Interview on JavaScript" << endl;
+		cout << "Interview on React" << endl;
+
+
 		cout << "Exit" << endl;
 		cout << "\n";
 		cout << "Select action: ";
